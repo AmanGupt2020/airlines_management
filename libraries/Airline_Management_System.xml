@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Airline_Management_System">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Airline-Management-System/dist/Airline_Management_System.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
